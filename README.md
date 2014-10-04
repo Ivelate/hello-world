@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-HEY MOM LOOK IM GITHUBBING
+HEY GITHUB LOOK IM MOMMING
